@@ -3,11 +3,8 @@
  *	@date 22/10/2014
  */
 
-
 #include <stdio.h>
 #include <conio.h>
-
-
 
 int main(){
 	
@@ -21,8 +18,6 @@ int main(){
 	printf("Float: %d \n", sizeof(float));
 	printf("Double: %d \n", sizeof(double));
 	printf("Long double: %d \n", sizeof(long double));
-
-
 
 	getch();
 	return 0;
